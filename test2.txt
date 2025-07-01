@@ -1,2 +1,6 @@
 Another test file. Hello World
 Added another line, 
+
+
+
+And now we have a new line
